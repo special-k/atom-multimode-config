@@ -1,0 +1,24 @@
+"*":
+  "atom-package-deps":
+    ignored: [
+      "linter-pylint"
+    ]
+  "autocomplete-plus":
+    enableAutoActivation: false
+    enableAutoConfirmSingleSuggestion: false
+    minimumWordLength: 1
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 17
+  "exception-reporting":
+    userId: "1effa0b2-2ee8-4a52-b80e-098d95a88836"
+  "fuzzy-finder":
+    scoringSystem: "fast"
+    useRipGrep: true
+  welcome:
+    showOnStartup: false
