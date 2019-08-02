@@ -7,7 +7,12 @@
     enableAutoActivation: false
     enableAutoConfirmSingleSuggestion: false
     minimumWordLength: 1
+  "command-palette":
+    defaultCommandPath: "vim:"
   core:
+    disabledPackages: [
+      "vim-mode-plus-macros"
+    ]
     telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
@@ -20,5 +25,6 @@
   "fuzzy-finder":
     scoringSystem: "fast"
     useRipGrep: true
+  "tree-view": {}
   welcome:
     showOnStartup: false
