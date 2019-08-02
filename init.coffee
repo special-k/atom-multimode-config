@@ -10,6 +10,9 @@
 #   editor.onDidSave ->
 #     console.log "Saved! #{editor.getPath()}"
 
+if !atom.workspace.getActivePaneItem()
+  atom.workspace.open()
+
 atom.workspace.getPanes().forEach (pane)->
   pane.currentActiveItem = pane.getActiveItem()
   pane.onDidChangeActiveItem (item)->

@@ -31,13 +31,13 @@
 # Atom Flight Manual:
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#configuring-with-cson
 'atom-text-editor.vim-mode-plus.normal-mode':
-    '\\ c c': 'editor:toggle-line-comments'
-    'ctrl-6': 'vim:previous-file'
-    ', ,': 'fuzzy-finder:toggle-file-finder'
-    ', k': 'fuzzy-finder:toggle-buffer-finder'
+  '\\ c c': 'editor:toggle-line-comments'
+  'ctrl-6': 'vim:previous-file'
+  ', ,': 'fuzzy-finder:toggle-file-finder'
+  ', k': 'fuzzy-finder:toggle-buffer-finder'
 
 'atom-text-editor.vim-mode-plus.visual-mode':
-    '\\ c c': 'editor:toggle-line-comments'
+  '\\ c c': 'editor:toggle-line-comments'
 
 'atom-text-editor.ex-mode-editor':
     'ctrl-m': 'core:confirm'

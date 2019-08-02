@@ -25,6 +25,9 @@
   "fuzzy-finder":
     scoringSystem: "fast"
     useRipGrep: true
-  "tree-view": {}
+  "linter-eslint":
+    disabling: {}
+  "tree-view":
+    alwaysOpenExisting: true
   welcome:
     showOnStartup: false
