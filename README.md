@@ -7,6 +7,17 @@
   apm install `cat packages.list`
 ```
 
+# Goal
+Make Atom the best text editor with multiple modes.
+
+# Roadmap
+1. Decompose vim-mode-plus features.
+   1. Vim-like keybindings for Atom's find-and-replace.
+   2. Vim-like search through Atom's find-and-replace.
+   3. As many vim-like features through Atom API as it possible.
+2. Macros support
+   1. Macros panel package.
+
 ## Useful links (for me)
 https://atom.io/users/AtomLinter/packages
 
