@@ -1,5 +1,5 @@
 atom-ide-ui@0.13.0
-ide-typescript@0.9.1
+atom-typescript@13.3.0
 linter-erb@1.1.4
 linter-eslint@8.5.5
 linter-htmlhint@1.6.2
@@ -9,6 +9,8 @@ linter-sass-lint@1.9.0
 linter-stylelint@4.4.9
 vim-mode-plus-keymaps-for-surround@0.2.1
 vim-mode-plus-macros@0.1.2
+zentabs@0.8.9
+
 
 special-k/command-palette
 special-k/atom-vim-mode-plus

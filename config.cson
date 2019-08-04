@@ -31,3 +31,4 @@
     alwaysOpenExisting: true
   welcome:
     showOnStartup: false
+  zentabs: {}
