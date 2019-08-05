@@ -2,7 +2,7 @@
 ```bash
   cd ~/
   mv ~/.atom ~/.atom_old
-  get clone https://github.com/special-k/web-atomakavim.git
+  get clone https://github.com/special-k/atom-multimode-config.git
   cd ~/.atom
   apm install `cat packages.list`
 ```
